@@ -1,0 +1,19 @@
+.body_background 
+{
+    background-image: url("bg.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-image:url("canvas.png"); 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
